@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "68AWM4LPFwcJo5mzDLc0r80YezS1ooIjX+Z7P2khvCDvfuzewrH9/jGCNYfwCAVeIEHt8ENh4NSRR9+pkgHhuA==",
+  "dgSpecHash": "RtqKFZD9M88CaI4dtzizTePA31v1ReNdwP/AfOhbOClIuU+MLMP24FYCEEBhwyPN4mIZBf38Lj/ZJOGUWG+OFg==",
   "success": true,
-  "projectFilePath": "C:\\development\\cleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+  "projectFilePath": "c:\\development\\cleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
